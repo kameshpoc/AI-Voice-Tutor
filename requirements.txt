@@ -1,0 +1,5 @@
+pipecat-ai[google,sarvam,webrtc,silero]
+python-dotenv
+loguru
+fastapi
+uvicorn[standard]
